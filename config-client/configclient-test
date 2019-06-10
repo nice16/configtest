@@ -1,2 +1,2 @@
-server.port=9095
-eureka.client.serviceUrl.defaultZone=http://localhost:9090/eureka/
+server.port=9075
+eureka.client.serviceUrl.defaultZone=http://localhost:9070/eureka/
